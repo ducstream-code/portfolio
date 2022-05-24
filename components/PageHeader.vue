@@ -38,10 +38,10 @@ fill="currentColor"
       <div>
         <button  class="top-3 ml-10" @click="closeSideMenu()"> <img class="h-8" src="../assets/images/closeWhite.png"> </button>
       </div>
-      <div class="flex flex-col place-items-center md:hidden gap-12 pt-56">
-        <a href="/" class="text-3xl">Accueil</a>
-        <a href="/projects" class="text-3xl">Projets</a>
-        <a href="/photos" class="text-3xl">Photos</a>
+      <div class="flex flex-col place-items-center md:hidden gap-12 pt-56 text-white">
+        <a href="/" class="text-3xl text-white">Accueil</a>
+        <a href="/projects" class="text-3xl text-white">Projets</a>
+        <a href="/photos" class="text-3xl text-white">Photos</a>
       </div>
 
 
