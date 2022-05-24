@@ -45,6 +45,10 @@
         <h3>Apprentissage de nouvelles technologies : PHP – WordPress – Google Data Studio – WiseTime – Trello - APIs. Chez <a class="text-teal-500 dark:text-teal-900 font-bold" href="https://www.agenceharmonie.com/">Agence Harmonie</a> en tant qu'assistant développeur stagiaire </h3>
       </div>
 
+    <h1 class="_fullname font-semibold text-white text-xl border-b-4 border-gray-600 w-48 mb-2 mt-8 dark:text-black ">Mes compétences</h1>
+    <p class="dark:text-black">HTML <span class="text-2xl">•</span> CSS <span class="text-2xl">•</span> JS <span class="text-2xl">•</span> PHP <span class="text-2xl">•</span> SQL <span class="text-2xl">•</span>
+      NuxtJS <span class="text-2xl">•</span> Python <span class="text-2xl">•</span> Bash <span class="text-2xl">•</span> C <span class="text-2xl">•</span> Linux <span class="text-2xl">•</span> BurpSuite <span class="text-2xl">•</span> Nmap <span class="text-2xl">•</span> SQLMap <span class="text-2xl">•</span> Wordpress <span class="text-2xl">•</span> Heroku <span class="text-2xl">•</span> Node JS <span class="text-2xl">•</span> Reseau <span class="text-2xl">•</span> PfSense <span class="text-2xl">•</span>  </p>
+
       <h1 class="_fullname font-semibold text-white text-xl border-b-4 border-gray-600 w-32 mb-2 mt-5 dark:text-black ">Mes passions</h1>
       <p class="dark:text-black">Développement, Musique, Photographie, Exploration Urbaine, Voyage</p>
 
