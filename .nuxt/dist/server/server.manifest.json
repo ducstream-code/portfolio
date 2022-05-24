@@ -1,0 +1,29 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/page-footer.js": "components/page-footer.js",
+    "components/page-header.js": "components/page-header.js",
+    "components/page-main.js": "components/page-main.js",
+    "components/photo-components.js": "components/photo-components.js",
+    "components/project-element.js": "components/project-element.js",
+    "components/project-main.js": "components/project-main.js",
+    "pages/Projects.js": "pages/Projects.js",
+    "pages/index.js": "pages/index.js",
+    "pages/photos.js": "pages/photos.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/page-footer.js": "components/page-footer.js.map",
+    "components/page-header.js": "components/page-header.js.map",
+    "components/page-main.js": "components/page-main.js.map",
+    "components/photo-components.js": "components/photo-components.js.map",
+    "components/project-element.js": "components/project-element.js.map",
+    "components/project-main.js": "components/project-main.js.map",
+    "pages/Projects.js": "pages/Projects.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/photos.js": "pages/photos.js.map",
+    "server.js": "server.js.map"
+  }
+}

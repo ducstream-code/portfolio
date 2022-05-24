@@ -1,0 +1,23 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "PageFooter": {
+    "description": "Auto imported from components/PageFooter.vue"
+  },
+  "PageHeader": {
+    "description": "Auto imported from components/PageHeader.vue"
+  },
+  "PageMain": {
+    "description": "Auto imported from components/PageMain.vue"
+  },
+  "PhotoComponents": {
+    "description": "Auto imported from components/PhotoComponents.vue"
+  },
+  "ProjectElement": {
+    "description": "Auto imported from components/ProjectElement.vue"
+  },
+  "ProjectMain": {
+    "description": "Auto imported from components/ProjectMain.vue"
+  }
+}

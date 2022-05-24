@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{282:function(e,t,n){"use strict";n.r(t);var r={name:"PageFooter"},c=n(51),component=Object(c.a)(r,(function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",{staticClass:"text-center text-sm text-gray-300"},[e._v("\n©Aurélien KRIEF\n")])}),[],!1,null,"fc6d2d52",null);t.default=component.exports}}]);

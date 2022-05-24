@@ -1,0 +1,23 @@
+[
+  {
+    "name": "photos",
+    "path": "/photos",
+    "component": "/Users/aurelien/PhpstormProjects/portfolio/pages/photos.vue",
+    "chunkName": "pages/photos",
+    "_name": "_ba37d966"
+  },
+  {
+    "name": "Projects",
+    "path": "/Projects",
+    "component": "/Users/aurelien/PhpstormProjects/portfolio/pages/Projects.vue",
+    "chunkName": "pages/Projects",
+    "_name": "_b7981434"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/aurelien/PhpstormProjects/portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6aa53b36"
+  }
+]
