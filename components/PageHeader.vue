@@ -36,7 +36,7 @@ fill="currentColor"
 
     <div id="sideMenu" class="bg-black/70 h-full w-full translate-x-full  dark:bg-amber-700/70 fixed z-50 right-0 top-0 transition-all pt-10 pr-10 md:hidden ">
       <div>
-        <button @click="closeSideMenu()" class="top-5 ">Close</button>
+        <button  class="top-3 ml-10" @click="closeSideMenu()"> <img class="h-8" src="../assets/images/closeWhite.png"> </button>
       </div>
       <div class="flex flex-col place-items-center md:hidden gap-12 pt-56">
         <a href="/" class="text-3xl">Accueil</a>
