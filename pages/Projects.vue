@@ -17,6 +17,11 @@ export default {
     projects: [],
     error: null,
   }),
+  head() {
+    return {
+      title: "Projets"
+    };
+  },
 
   created() {
     this.$axios.get('https://api.aurelienk.space/projects/get.php').then(result => {

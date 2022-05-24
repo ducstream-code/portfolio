@@ -18,10 +18,17 @@
 export default {
   // eslint-disable-next-line vue/multi-word-component-names
   name: "Photos",
+
   data: () => ({
     photos: [],
     error: null,
   }),
+
+  head() {
+    return {
+      title: "Photos"
+    };
+  },
 
   created() {
     this.$axios.get('https://api.aurelienk.space/photos/get.php').then(result => {
@@ -31,6 +38,7 @@ export default {
       this.error = error;
     })
   }
+
 }
 </script>
 
