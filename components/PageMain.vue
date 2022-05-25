@@ -5,8 +5,8 @@
         français</h1>
       <h1 class="_fullname text-white text-4xl font-semibold dark:text-black">Aurélien Krief</h1>
       <p class="text-white  dark:text-black">Étudiant en développement informatique</p>
-      <p class="text-white  dark:text-black">Paris</p>
-      <p class="text-white  dark:text-black">aurelienkrief@gmail.com</p>
+      <p class="text-teal-500 dark:text-teal-900 font-bold">PARIS</p>
+      <a href="mailto:aurelienkrief@gmail.com" class="text-teal-500 dark:text-teal-900 font-semibold">aurelienkrief@gmail.com</a>
       <div class="flex justify-center">
         <img class="rounded-full object-cover border-white border  h-32 w-32"
              src="https://www.cdn.aurelienk.space/images/moi.png" alt="">
